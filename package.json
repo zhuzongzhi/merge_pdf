@@ -1,0 +1,11 @@
+{
+  "name": "mergepdf",
+  "version": "1.0.0",
+  "description": "合并PDF文件",
+  "main": "merge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuzongzhi",
+  "license": "ISC"
+}
